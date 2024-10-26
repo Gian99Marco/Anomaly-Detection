@@ -1,4 +1,4 @@
-# Anomaly Detection on the "cs448b_ipasn" dataset
+# Anomaly Detection
 
 In this notebook we will analyze the "cs448b_ipasn" dataset which includes some network traffic data.
 
